@@ -1,5 +1,11 @@
 # test-node
 
+## 1.0.3
+
+### Patch Changes
+
+- [#9](https://github.com/aaazureee/test-changeset/pull/9) [`b24b761`](https://github.com/aaazureee/test-changeset/commit/b24b761de79278eb328e767492f229656dcf254f) Thanks [@aaazureee](https://github.com/aaazureee)! - add 1+2
+
 ## 1.0.2
 
 ### Patch Changes
