@@ -1,5 +1,11 @@
 # test-node
 
+## 1.0.2
+
+### Patch Changes
+
+- [#7](https://github.com/aaazureee/test-changeset/pull/7) [`f3e0949`](https://github.com/aaazureee/test-changeset/commit/f3e0949d784bee5c30fb0c2d1fae47f8bdb9e534) Thanks [@aaazureee](https://github.com/aaazureee)! - add few things
+
 ## 1.0.1
 
 ### Patch Changes
